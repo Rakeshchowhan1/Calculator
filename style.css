@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+
+input{
+    height: 60px;
+    width: 439px;
+}
+button{
+    height: 50px;
+    width: 109px;
+    font-size: 22px;
+    font-weight: 40px;
+}
+button:hover{
+    color: #ae80f9;
+}
+
+
+
+
+
+
+
+
+
+ 
